@@ -1,6 +1,8 @@
 # calculator
 
 A new Flutter project.
+![cal1](https://user-images.githubusercontent.com/76803237/128635540-64dc738d-4b85-4258-8944-a14cfb7efc84.png)
+
 
 ## Getting Started
 
